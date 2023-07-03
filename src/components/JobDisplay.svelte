@@ -14,7 +14,7 @@
 
 <style>
   .job-item {
-    border: 1px solid grey;
+    border: 5px solid red;
     padding: 2rem;
     width: 50%;
     margin: 1rem;
